@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = felix.laforge29650@gmail.com
+	name = felix laforge
